@@ -1,0 +1,6 @@
+
+# Folder to no track
+.venv/
+
+# File to track
+!.python-version
