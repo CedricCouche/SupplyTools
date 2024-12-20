@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "title": "Air passengers",
+    "subtitle": "Domestic and international passengers of airlines registered in the country. Passengers counted each time they travel.",
+    "citation": "Multiple sources compiled by World Bank (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/air-passengers-carried?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "China",
+      "United States",
+      "European Union"
+    ]
+  },
+  "columns": {
+    "Air transport, passengers carried": {
+      "titleShort": "Air transport, passengers carried",
+      "titleLong": "Air transport, passengers carried",
+      "descriptionKey": [],
+      "unit": "",
+      "timespan": "1970-2021",
+      "type": "Numeric",
+      "owidVariableId": 905338,
+      "shortName": "is_air_psgr",
+      "lastUpdated": "2024-05-20",
+      "nextUpdate": "2025-05-20",
+      "citationShort": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data",
+      "citationLong": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data. “Air transport, passengers carried” [dataset]. International Civil Aviation Organization (via World Bank), “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/905338.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-18",
+  "activeFilters": {}
+}
